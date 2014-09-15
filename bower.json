@@ -1,0 +1,11 @@
+{
+  "name": "My_First_MEAN_app",
+  "version": "0.0.1",
+  "description": "Ejemplo de desarrollo de aplicación web con JavaScript: MEAN APP",
+  "dependencies": {
+    "angular": "~1.2.24",
+    "bootstrap": "~3.2.0",
+    "angular-route": "~1.2.24",
+    "angular-resource": "~1.2.24"
+  }
+}
