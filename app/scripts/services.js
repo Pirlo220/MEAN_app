@@ -22,8 +22,7 @@
 		});
 	}
 
-	angular
-		.module('blog.services')
+	angular.module('blog.services')
 		.constant('BaseUrl', 'http://jsonplaceholder.typicode.com')
 		.factory('Post', Post)
 		.factory('Comment', Comment)
