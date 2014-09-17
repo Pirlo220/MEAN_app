@@ -3,6 +3,8 @@
 	angular.module('blog', ['ngRoute', 'blog.controllers']);
 
 	function config($locationProvider, $routeProvider) {
+        // $locationProvider.html5Mode(true)--> es importante, ya que permite que las URLs no lleven el caracter # 
+        // al inicio de ellas, como utiliza por defecto Angular. Quedando así más limpias.
 		$locationProvider.html5Mode(true);
 		$routeProvider
 			.when('/', {
