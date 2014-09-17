@@ -1,4 +1,4 @@
-<h2>This where I'll practice some stack MEAN principals</h2>
+<h2>This is where I'll practice some stack MEAN principals</h2>
 This a tutorial of Carlos Azustre about how to build an app with angularJS (downloaded from <a href="http://carlosazaustre.es/blog/ebook-angular/">http://carlosazaustre.es/blog/ebook-angular/).</a>
 What I'm using here:
 <br />
